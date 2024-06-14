@@ -1,7 +1,7 @@
 {
   "name": "JATE",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Progressive Web Application (PWA) Text Editor",
   "main": "server.js",
   "scripts": {
     "dev": "concurrently \"cd server && npm run start\" \"cd client && npm run dev\" ",
